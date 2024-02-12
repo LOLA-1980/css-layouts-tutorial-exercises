@@ -1,5 +1,22 @@
 /* your code here */
+.wrapper {
+	margin: 10px;
+}
+.secondWrapper {
+	display: flex;
+}
 
+section {
+	width: 80%;
+	text-align: center;
+	line-height: 200px;
+}
+nav {
+	width: 20%;
+	margin-right: 10px;
+	text-align: center;
+	line-height: 200px;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
